@@ -1,4 +1,4 @@
-Lesson/Module Title
+Development of antibiotic resistance
 ===================
 
 This module uses Python to get students to understand how mutations occur. 
