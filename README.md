@@ -3,9 +3,34 @@ Development of antibiotic resistance
 
 This module uses Python to get students to understand how mutations occur. 
 It models both spontaneous and selection-dependent mutations and compares them to the historic experiments from [Luria and Delbruck] (https://pubmed.ncbi.nlm.nih.gov/17247100/).
-Students directly compare the two models and use them to explain the experimental results. This module is based on Chapter 1 of the [Quantitative Biosciences textbook](https://press.princeton.edu/books/paperback/9780691181516/quantitative-biosciences?srsltid=AfmBOorplxUR0YGsrXwPBzlCj40s24hxJBXU1ei6syqPu4AZ9OgwOEDR) by Joshua Weitz. 
+Students directly compare the two models and use them to explain the experimental results. This module is based on Chapter 1 of the [Quantitative Biosciences textbook](https://press.princeton.edu/books/paperback/9780691181516/quantitative-biosciences?srsltid=AfmBOorplxUR0YGsrXwPBzlCj40s24hxJBXU1ei6syqPu4AZ9OgwOEDR) by Joshua S Weitz. 
 
 The module was written for an undergraduate sophomore-junior level Genetic Analysis course, but can be used in other courses, such as Advanced Genetics, Microbiology, Microbial Genetics, and Bioinformatics
+
+## Lesson Learning Outcomes
+At the end of this lesson, students will be able to...
+1. First lesson learning outcome
+2. Second lesson learning outcome
+3. Etc.
+
+## Cyberinfrastructure skills
+Before beginning this lesson, students are expected to have basic Python and Jupyter Notebook skills and/or have completed the following module available on the ACT-CMS Portal: 
+
+- [Introduction to Programming for Molecular Scientists](https://act-cms.molssi.org/portal/lessons/foundational-intro-python/)
+
+## Content prerequisites
+Before beginning this lesson, students are expected to be familiar with the following topics: 
+- Mutation basics
+- Effects of mutations on organismal fitness
+- Statistical concepts, including probability, probability distributions, sampling distributions, and confidence intervals.
+
+## Resources
+The following resources may be relevant to the students and can be assigned as homework prior to class: 
+- [MolSSI Workshop: Python Scripting for Computational Molecular Sciences](https://education.molssi.org/python_scripting_cms/)
+- [Probability](https://online.stat.psu.edu/stat500/Lesson02)
+- [Probability Distributions](https://online.stat.psu.edu/stat500/Lesson03)
+- [Sampling Distributions](https://online.stat.psu.edu/stat500/Lesson04)
+- [Confidence Intervals](https://online.stat.psu.edu/stat500/Lesson05)
 
 ## Lesson/Module Contents
 
@@ -40,6 +65,10 @@ Lesson overview:
     * Description: The lesson puts together all prior work to get students to simulate the time of mutation appearance and the time of selection. Students then compare the variance produced by the Lamarckian and the Darwinian models and compare them to the experimental results from Luria and Delbruck. 
     * Time: 1 hour
 
+
+## References
+
+[Weitz, Joshua S. Quantitative Biosciences : Dynamics across Cells, Organisms, and Populations. First edition., Princeton University Press, 2024](https://press.princeton.edu/books/hardcover/9780691181509/quantitative-biosciences)
 
 
 
