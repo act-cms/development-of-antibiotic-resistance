@@ -9,8 +9,7 @@ The module was written for an undergraduate sophomore-junior level Genetic Analy
 
 ## Lesson/Module Contents
 
-Provide a brief overview of the structure of your module or lesson as an
-enumerated list below:
+Lesson overview:
 
 1. Introduction to distributions
     * Directory: `01_Introduction-to-distributions`
