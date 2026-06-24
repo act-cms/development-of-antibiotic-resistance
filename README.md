@@ -9,9 +9,11 @@ The module was written for an undergraduate sophomore-junior level Genetic Analy
 
 ## Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. First lesson learning outcome
-2. Second lesson learning outcome
-3. Etc.
+1. Use Python to simulate stochastic biological processes and analyze experimental data.
+2. Apply probability distributions and computational models to investigate the origins of antibiotic resistance in bacterial populations.
+3. Evaluate competing scientific hypotheses by comparing model predictions with experimental observations.
+4. Estimate biological parameters from data and interpret uncertainty in model-based inferences.
+5. Explain how mutation timing and natural selection interact to shape evolutionary outcomes in microbial populations.
 
 ## Cyberinfrastructure skills
 Before beginning this lesson, students are expected to have basic Python and Jupyter Notebook skills and/or have completed the following module available on the ACT-CMS Portal: 
