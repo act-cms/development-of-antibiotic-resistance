@@ -17,9 +17,5 @@ following content topics:
 
 * Lesson 05: Spontaneous mutations
 
-### Additional files
-Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-
 
 

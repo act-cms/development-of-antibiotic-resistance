@@ -20,7 +20,6 @@ following content topics:
 
 ### Additional files
 Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
 - `weitz_pois.csv`: Mock dataset that obeys the Poisson distribution, as presented in the [Weitz textbook](https://press.princeton.edu/books/hardcover/9780691181509/quantitative-biosciences).
 
 

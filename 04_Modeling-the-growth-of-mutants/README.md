@@ -17,8 +17,4 @@ following content topics:
 
 * Lesson 03: Selection-dependent mutation model
 
-### Additional files
-Also provided to support adopting instructors are
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-
 

@@ -40,10 +40,3 @@ following content topics:
 
 This lesson was adapted from: 
 * [Weitz, Joshua S. Quantitative Biosciences : Dynamics across Cells, Organisms, and Populations. First edition., Princeton University Press, 2024](https://press.princeton.edu/books/hardcover/9780691181509/quantitative-biosciences)
-
-### Additional files
-
-Also provided to support adopting instructors are:
-- `instructor-key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
-
-
