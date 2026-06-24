@@ -18,6 +18,8 @@ following content topics:
 
 * Lesson 01: Introduction to distributions
 
+### Additional files
+
 Also provided to support adopting instructors are
 - `instructor-key.ipynb`: Instructor "key" notebook with completed code cells and full instructor commentary in Markdown cells
 
