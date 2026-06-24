@@ -1,7 +1,7 @@
 Lesson 06: From observations to estimates
 =======================
 
-The purpose of this lesson is to (brief description of lesson here).
+The purpose of this lesson is to use computational simulations to estimate mutation rates, evaluate uncertainty in those estimates, and determine whether observed patterns of antibiotic resistance are more consistent with spontaneous mutation or acquired resistance models.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
